@@ -2,7 +2,7 @@
 /*
  * Plugin Name:       Custom Order Limit
  * Plugin URI:        https://www.michaeltsuro.com/plugins/
- * Description:       WooCommerce plugin to limit orders per category for a user and automatically disable the checkout process after reaching the maximum number of orders per category for a user within a certain time.
+ * Description:       Elevate your online store with a WooCommerce plugin that limits user orders per category. This tool automatically disables checkout when a user exceeds the maximum order limit within a set timeframe.
  * Version:           1.0.0
  * Requires at least: 6.2
  * Requires PHP:      8.0
