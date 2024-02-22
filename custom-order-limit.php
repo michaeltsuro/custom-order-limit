@@ -59,7 +59,7 @@ try {
             wp_die(__('Custom Order Limit requires WooCommerce 7.8 or higher.', 'custom-order-limit'));
         }
 
-        $limiter = new \BetaDev\CustomOrderLimit\CustomOrderLimit();
+        $limiter = new \BetaDev\CustomOrderLimit\CustomOrderLimiter();
         $admin   = new \BetaDev\CustomOrderLimit\Admin($limiter);
 
         // Initialize hooks.
