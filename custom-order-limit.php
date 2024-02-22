@@ -16,6 +16,7 @@
  *
  * WC requires at least: 7.8
  * WC tested up to:      8.6.1
+ * @package BetaDev\CustomOrderLimit
  */
 
 // Minimum PHP version check.
